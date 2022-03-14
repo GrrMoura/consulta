@@ -1,5 +1,5 @@
 # Para fins de portifólio
-O CÓDIGO NÃO FUNCIONA, APAGUEI TODOS OS DADOS SENSÍVEIS. <br>
+O CÓDIGO NÃO ESTÁ FUNCIONANDO, APAGUEI TODOS OS DADOS SENSÍVEIS. <br>
 Contém login biométrico e push notification com firebase.
 
 
